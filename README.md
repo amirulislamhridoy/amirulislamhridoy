@@ -1,6 +1,6 @@
 ![I am Jr. Web Developer](https://media-exp1.licdn.com/dms/image/C4E16AQF2a7tz_zHqWQ/profile-displaybackgroundimage-shrink_350_1400/0/1654671224365?e=1661990400&v=beta&t=Xakxj9xe_q-jNK3_IiWuH0_vmNkXlnCNr27CEfrVsI8)
 ### Hi there 👋, my name is Amirul Islam Hridoy
-#### I am Jr. Web Developer
+#### 🤨 I am Jr. Web Developer
 
 👍 Hi, my name is Hridoy. I'm a Jr. Web Developer and a student of Govt. Titumir College in Dhaka, Bangladesh. Honors 2nd year. Web Development is my dream and passion. I want to be a senior web developer. I can create full-stack website using react, MongoDB atlas, etc.
 
