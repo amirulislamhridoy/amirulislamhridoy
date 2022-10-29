@@ -1,4 +1,4 @@
-![I am Jr. Web Developer](https://media-exp1.licdn.com/dms/image/C4E16AQF2a7tz_zHqWQ/profile-displaybackgroundimage-shrink_350_1400/0/1654671224365?e=1661990400&v=beta&t=Xakxj9xe_q-jNK3_IiWuH0_vmNkXlnCNr27CEfrVsI8)
+![ I am Jr. Web Developer](https://media-exp1.licdn.com/dms/image/C4E16AQF2a7tz_zHqWQ/profile-displaybackgroundimage-shrink_350_1400/0/1654671224365?e=1661990400&v=beta&t=Xakxj9xe_q-jNK3_IiWuH0_vmNkXlnCNr27CEfrVsI8)
 ### Hi there 👋, my name is Amirul Islam Hridoy
 #### 🤨 I am Jr. Web Developer
 
