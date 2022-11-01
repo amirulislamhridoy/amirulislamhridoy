@@ -2,7 +2,7 @@
 ### Hi there 👋, my name is Amirul Islam Hridoy
 #### 🤨 I am Jr. Web Developer
 
-👍 Hi, my name is Hridoy. I'm a Jr. Web Developer and a student of Govt. Titumir College in Dhaka, Bangladesh. Honors 2nd year. Web Development is my dream and passion. I want to be a senior web developer. I can create full-stack website using react, MongoDB atlas, etc.
+👍 Hi, my name is Hridoy. I'm a MERN stack developer and a student of Govt. Titumir College in Dhaka, Bangladesh. Web Development is my dream and passion. I like learning new technology. My next target is I want to be a senior web developer. I can create MERN stack or full-stack website.
 
 Skills: ✔ HTML 5 / CSS 3 / Bootstrap / Tailwind css / DaisyUI / JavaScript / React API / React Router / Firebase / Firebase Hooks / Authentication / Authorization / MongoDB / Node js / Express js etc.
 
