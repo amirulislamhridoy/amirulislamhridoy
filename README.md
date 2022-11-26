@@ -1,6 +1,6 @@
 ![ I am Jr. Web Developer]('https://amirulislamhridoy.netlify.app/')
 ### Hi there 👋, my name is Amirul Islam Hridoy
-#### 🤨 I am Jr. Web Developer
+#### 🤨 I am Web Developer
 
 👍 Hi, my name is Hridoy. I'm a MERN stack developer and a student of Govt. Titumir College in Dhaka, Bangladesh. Web Development is my dream and passion. I like learning new technology. My next target is I want to be a senior web developer. I can create MERN stack or full-stack website.
 
