@@ -4,7 +4,7 @@
 
 👍 Hi, my name is Hridoy. I'm a MERN stack developer and a student of Govt. Titumir College in Dhaka, Bangladesh. Web Development is my dream and passion. I like learning new technology. My next target is I want to be a senior web developer. I can create MERN stack or full-stack website.
 
-Skills: ✔ HTML 5 / CSS 3 / Bootstrap / Tailwind css / DaisyUI / JavaScript / React API / Redux / React Router / Firebase / Firebase Hooks / Authentication / Authorization / MongoDB / Node js / Express js etc.
+Skills: ✔ HTML 5 / CSS 3 / Bootstrap / Tailwind css / SSS / React js / Next js / DaisyUI / JavaScript / React API / Redux / React Router / Firebase / Firebase Hooks / Authentication / Authorization / MongoDB / Node js / Express js / Mongoose / MVC Pattern / PostgreSQL etc.
 
 - 🌱 I’m currently learning JavaScript 
 - 🤔 I’m looking for help with lerning. 
